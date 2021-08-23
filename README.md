@@ -3,13 +3,13 @@
 <img align="right" alt="GIF" src="https://github.com/AkshayAru/AkshayAru/blob/main/Coder.gif?raw=true" width="400" height="220" />
  
 ## I'm a Masters Student, Club Executive, Developer, and Mentor!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my summer project.
-- 🌱 I’m currently learning Haskell and Elm
++ ✍ You can find my projects here [portfolio]
++ 🔭 I’m currently working on my summer project.
++ 🌱 I’m currently learning Haskell and Elm
 + 👯 I’m looking to collaborate on open source
 + 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 3 languages ( English, Tamil, Kannada)
++ 😄 Pronouns: He/Him
++ ⚡ Fun fact: I speak 3 languages ( English, Tamil, Kannada)
 
 
 ### Talk with me, I am kinda awesome:
