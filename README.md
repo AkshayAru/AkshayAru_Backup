@@ -1,8 +1,6 @@
 ### Hello World, I'm Akshay  👋
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-
-<iframe src="https://giphy.com/embed/l3q2WMhNcyFOWP280" width="480" height="480" align="right" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-work-glas-2017-l3q2WMhNcyFOWP280">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://github.com/AkshayAru/AkshayAru/blob/main/Coder.gif?raw=true" width="500" height="320" />
  
 ## I'm a Masters Student, Club Executive, Developer, and Mentor!!
 - ✍ You can find my projects here [portfolio]
