@@ -6,8 +6,8 @@
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my summer project.
 - 🌱 I’m currently learning Haskell and Elm
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
++ 👯 I’m looking to collaborate on open source
++ 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 3 languages ( English, Tamil, Kannada)
 
