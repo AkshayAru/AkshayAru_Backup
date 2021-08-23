@@ -1,6 +1,6 @@
 ### Hello World, I'm Akshay  👋
 
-<img align="right" alt="GIF" src="https://github.com/AkshayAru/AkshayAru/blob/main/Coder.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/AkshayAru/AkshayAru/blob/main/Coder.gif?raw=true" width="400" height="220" />
  
 ## I'm a Masters Student, Club Executive, Developer, and Mentor!!
 - ✍ You can find my projects here [portfolio]
