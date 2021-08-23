@@ -1,23 +1,62 @@
-- 👋 Hi, I’m @AkshayAru aka Akshay
-- 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning whatever I get chance to explore
-- 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me email me
+### Hello World, I'm Akshay  👋
 
-### Connect with me
-[McMaster Start Coding Website](http://outreach.mcmaster.ca)
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+<iframe src="https://giphy.com/embed/l3q2WMhNcyFOWP280" width="480" height="480" align="right" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-work-glas-2017-l3q2WMhNcyFOWP280">via GIPHY</a></p>
+ 
+## I'm a Masters Student, Club Executive, Developer, and Mentor!!
+- ✍ You can find my projects here [portfolio]
+- 🔭 I’m currently working on my summer project.
+- 🌱 I’m currently learning Haskell and Elm
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I speak 3 languages ( English, Tamil, Kannada)
+
+
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-[<img align="left" alt="Visual Studio Code" width="100px" src="https://w7.pngwing.com/pngs/407/726/png-transparent-cartoon-school-cartoon-child-child-photography-hand-thumbnail.png" />][WebPlaylist]
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
+[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][youtube]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
+[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][youtube]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
+[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][youtube]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][youtube]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 
 <br />
+<br />
+---
 
-[![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayAru)](https://github.com/AkshayAru/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="Ak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
 
-[WebPlaylist]: https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr
-<!---
-AkshayAru/AkshayAru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Ak's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+
+</details>
+
+[website]: http://outreach.mcmaster.ca/
+[youtube]: https://www.youtube.com/channel/UCBwtZa2OjMg_QtZOTKdDfpg
+[instagram]: https://www.instagram.com/akshayhbk/
+[linkedin]: https://www.linkedin.com/in/akshay-kumar-arumugasamy/
+[portfolio]: https://akshayaru.github.io/
